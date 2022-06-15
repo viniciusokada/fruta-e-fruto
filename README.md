@@ -1,2 +1,2 @@
-# alura-fruta-e-fruto
-This is a project made to practice "CSS3".
+# arquitetura-css
+curso de arquitetura da Alura. 
