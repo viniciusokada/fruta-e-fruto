@@ -1,2 +1,5 @@
-# arquitetura-css
-curso de arquitetura da Alura. 
+### HI there!
+
+Feel free to checkout this project: - https://fruta-e-fruto-hazel.vercel.app
+
+this is a project to practice css architecture.
